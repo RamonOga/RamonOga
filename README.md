@@ -1,8 +1,8 @@
 ### My name is Roman. Wellcome.👋
 
-This is my statistics on github:
 
--
+
+
 
 
 <h3>My main projets:</h3>
@@ -11,6 +11,9 @@ This is my statistics on github:
 
 [DreamJob](https://github.com/RamonOga/Dream_Job/blob/master/README.md) - CRUD MVC веб-приложение(JDBC, PostgreSQL, Servlet, JSP, Tomcat)
 
+
+
+This is my statistics on github:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RamonOga&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonOga&layout=compact)](https://github.com/RamonOga/github-readme-stats)
