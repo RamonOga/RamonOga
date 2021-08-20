@@ -4,10 +4,11 @@ This is my statistics on github:
 
 -
 
-<div>
+
 <h3>My main projets:</h3>
-[To Do List](https://github.com/RamonOga/job4j_ToDo/blob/master/README.md)
-</div>
+[ToDo List](https://github.com/RamonOga/job4j_ToDo/blob/master/README.md)
+[DreamJob](https://github.com/RamonOga/Dream_Job/blob/master/README.md)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RamonOga&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonOga&layout=compact)](https://github.com/RamonOga/github-readme-stats)
