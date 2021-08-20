@@ -6,8 +6,9 @@ This is my statistics on github:
 
 
 <h3>My main projets:</h3>
-[ToDo List](https://github.com/RamonOga/job4j_ToDo/blob/master/README.md)
-[DreamJob](https://github.com/RamonOga/Dream_Job/blob/master/README.md)
+[!ToDo List](https://github.com/RamonOga/job4j_ToDo/blob/master/README.md)
+
+[!DreamJob](https://github.com/RamonOga/Dream_Job/blob/master/README.md)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RamonOga&hide=stars,prs,issues,contribs)
